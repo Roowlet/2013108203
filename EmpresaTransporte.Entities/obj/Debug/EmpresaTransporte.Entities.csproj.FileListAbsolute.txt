@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\2017-1\programas C#\EmpresaTransporte\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.dll
+C:\Users\usuario\Desktop\2017-1\programas C#\EmpresaTransporte\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.pdb
+C:\Users\usuario\Desktop\2017-1\programas C#\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017-1\programas C#\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.dll
+C:\Users\usuario\Desktop\2017-1\programas C#\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.pdb
